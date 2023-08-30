@@ -1,2 +1,4 @@
-# Digital-logic-function-simplication
-This code will generate all the input combinations for the 6 literals and execute the given logic function gives the output
+# Digital-logic-function-simplication 
+
+
+This code will generate all the input combinations for the 6 literals and execute the given logic function, print the output.
